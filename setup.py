@@ -7,5 +7,5 @@ setup(name='Feedme',
       description='Rss Podcast Tracker',
       author='Forrest Alvarez',
       py_modules=['feedme'],
-      install_require = ['flask', 'feedstail', 'Flask-OAuth', 'pymad'],
+      install_require = ['flask', 'feedstail', 'Flask-OpenID', 'pymad'],
      )
